@@ -77,7 +77,6 @@ The backend of ViviQD Chat is built using a modern and scalable tech stack to en
 - **Spring Boot** – for building the core application logic and API.
 - **Spring Security** – for handling authentication and authorization.
 - **Spring Data JPA** – for managing database interactions.
-- **MySQL** – for relational database management.
 - **Redis** – for caching and quick data retrieval.
 - **JWT (JSON Web Tokens)** – for secure authentication and authorization.
 - **SpringAI** – for integrating AI functionalities, such as NLP processing for chatbot features, recommendation systems, and personalizing user interactions.
