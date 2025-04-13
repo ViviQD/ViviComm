@@ -27,7 +27,6 @@
 
   <p align="center">
     Medical AI Chat for Kids
-
     <br />
     <a href="https://github.com/ViviQD/ViviComm"><strong>Explore the docs »</strong></a>
 </div>
