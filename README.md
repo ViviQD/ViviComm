@@ -9,10 +9,19 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-## Project Badges
+<center>
+  <table>
+    <tr>
+      <td><a href="contributors-url"><img src="https://img.shields.io/github/contributors/ViviQD/ViviComm-Lite" alt="Contributors"></a></td>
+      <td><a href="forks-url"><img src="https://img.shields.io/github/forks/ViviQD/ViviComm-Lite" alt="Forks"></a></td>
+      <td><a href="stars-url"><img src="https://img.shields.io/github/stars/ViviQD/ViviComm-Lite" alt="Stars"></a></td>
+      <td><a href="issues-url"><img src="https://img.shields.io/github/issues/ViviQD/ViviComm-Lite" alt="Issues"></a></td>
+      <td><a href="license-url"><img src="https://img.shields.io/github/license/ViviQD/ViviComm-Lite" alt="License"></a></td>
+      <td><a href="linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" alt="LinkedIn"></a></td>
+    </tr>
+  </table>
+</center>
 
-| [![Contributors][contributors-shield]][contributors-url] | [![Forks][forks-shield]][forks-url] | [![Stargazers][stars-shield]][stars-url] | [![Issues][issues-shield]][issues-url] | [![License][license-shield]][license-url] | [![LinkedIn][linkedin-shield]][linkedin-url] |
-|----------------------------------------------------------|--------------------------------------|-----------------------------------------|----------------------------------------|------------------------------------------|------------------------------------------|
 
 
 
