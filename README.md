@@ -9,14 +9,26 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<span class="center-menu">[[000 Master Index]] ○○○ [[100 Personal Index]] ○○○ [[200 Daily Index]]</span>
+<div align="center">
+    <a href="contributors-url">
+        <img src="contributors-shield" alt="Contributors">
+    </a>
+    <a href="forks-url">
+        <img src="contributors-shield" alt="Forks">
+    </a>
+    <a href="stars-url">
+        <img src="contributors-shield" alt="Stargazers">
+    </a>
+    <a href="issues-url">
+        <img src="contributors-shield" alt="Issues">
+    </a>
+    <a href="license-url">
+        <img src="contributors-shield" alt="License">
+    </a>
+    <a href="linkedin-url">
+        <img src="contributors-shield" alt="LinkedIn">
+    </a>
+</div>
 
 
 <!-- PROJECT LOGO -->
