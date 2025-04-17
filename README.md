@@ -12,12 +12,12 @@
 <center>
   <table>
     <tr>
-      <td><a href="contributors-url"><img src="https://img.shields.io/github/contributors/ViviQD/ViviComm-Lite" alt="Contributors"></a></td>
-      <td><a href="forks-url"><img src="https://img.shields.io/github/forks/ViviQD/ViviComm-Lite" alt="Forks"></a></td>
-      <td><a href="stars-url"><img src="https://img.shields.io/github/stars/ViviQD/ViviComm-Lite" alt="Stars"></a></td>
-      <td><a href="issues-url"><img src="https://img.shields.io/github/issues/ViviQD/ViviComm-Lite" alt="Issues"></a></td>
-      <td><a href="license-url"><img src="https://img.shields.io/github/license/ViviQD/ViviComm-Lite" alt="License"></a></td>
-      <td><a href="linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" alt="LinkedIn"></a></td>
+      <td><a href="https://github.com/ViviQD/ViviComm-Lite/graphs/contributors"><img src="https://img.shields.io/github/contributors/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Contributors"></a></td>
+      <td><a href="https://github.com/ViviQD/ViviComm-Lite/network/members"><img src="https://img.shields.io/github/forks/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Forks"></a></td>
+      <td><a href="https://github.com/ViviQD/ViviComm-Lite/stargazers"><img src="https://img.shields.io/github/stars/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Stars"></a></td>
+      <td><a href="https://github.com/ViviQD/ViviComm-Lite/issues"><img src="https://img.shields.io/github/issues/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Issues"></a></td>
+      <td><a href="https://github.com/ViviQD/ViviComm-Lite/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="License"></a></td>
+      <td><a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoWidth=40&style=for-the-badge" alt="LinkedIn"></a></td>
     </tr>
   </table>
 </center>
