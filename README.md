@@ -23,7 +23,7 @@
     <img src="images/viviqd_fulllogo_transparent_nobuffer.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">ViviComm</h3>
+  <h3 align="center">ViviComm Lite</h3>
 
   <p align="center">
     Medical AI Chat for Kids
@@ -36,7 +36,7 @@
 ### ViviQD - *The adventure for life, knowledge and healing.*
 
 Welcome to the official documentation for **ViviComm Chat**, a Social Media Platform AI Chatbot designed mainly for children.
-**ViviComm Chat** is an AI-driven chat platform tailored for kids and young audiences. It enables safe, dynamic, and interactive communication while ensuring a fun experience that stimulates learning and creativity. The platform **stores medical information securely**. Access to this information is controlled by configurable settings that determine whether the AI or healthcare professionals have permission to access the data. These settings comply with **GDPR** and **HIPAA** regulations, ensuring that user data is handled securely and lawfully.
+**ViviComm Lite** is an AI-driven opensource chat platform tailored for kids and young audiences. It enables safe, dynamic, and interactive communication while ensuring a fun experience that stimulates learning and creativity. The platform **stores medical information securely**. Access to this information is controlled by configurable settings that determine whether the AI or healthcare professionals have permission to access the data. These settings comply with **GDPR** and **HIPAA** regulations, ensuring that user data is handled securely and lawfully.
 
 
 ---
@@ -59,14 +59,17 @@ Welcome to the official documentation for **ViviComm Chat**, a Social Media Plat
 
 ## Overview
 
-**ViviComm** is an AI-driven chat platform tailored for kids and young audiences. It enables safe, dynamic, and interactive communication while ensuring a fun experience that stimulates learning and creativity. Note that while our platform is designed for various types of content, it **does not** store or process medical information.
+**ViviComm Lite** is an opensource AI-driven chat platform tailored for kids and young audiences. It enables safe, dynamic, and interactive communication while ensuring a fun experience that stimulates learning and creativity. 
+
+> [!NOTE]
+> Note that while our platform is designed for various types of content, it mainly created for health related.
 
 ---
 
 ## Features
 
 - **AI-Powered Conversations:** Advanced AI handles chat tasks and provides engaging responses.
-- **Interactive Social Experience:** A vibrant social media platform focused on safe and enjoyable communication.
+- **Interactive Social Experience:** A nice social media platform focused on safe and enjoyable communication.
 
 ---
 
