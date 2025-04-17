@@ -44,7 +44,7 @@
 
 ### ViviQD - *The adventure for life, knowledge and healing.*
 
-Welcome to the official documentation for **ViviComm Lite**, a Social Media Platform AI Chatbot designed mainly for children.
+Welcome to the official code base for **ViviComm Lite**, a Social Media Platform AI Chatbot designed mainly for children.
 **ViviComm Lite** is an AI-driven opensource chat platform tailored for kids and young audiences. It enables safe, dynamic, and interactive communication while ensuring a fun experience that stimulates learning and creativity. The platform **stores medical information securely**. Access to this information is controlled by configurable settings that determine whether the AI or healthcare professionals have permission to access the data. These settings comply with **GDPR** and **HIPAA** regulations, ensuring that user data is handled securely and lawfully.
 
 
@@ -143,7 +143,7 @@ To set up a local copy of the ViviComm-Lite Chat project, follow these steps:
 
 ```
 git clone https://github.com/ViviQD/ViviComm-Lite.git
-cd ViviComm
+cd ViviComm-Lite
 ```
 
 2. **Install Dependencies:**
