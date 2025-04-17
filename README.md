@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ViviQD/ViviComm">
+  <a href="https://github.com/ViviQD/ViviComm-Lite">
     <img src="images/viviqd_fulllogo_transparent_nobuffer.png" alt="Logo" width="300" height="300">
   </a>
 
@@ -28,10 +28,10 @@
   <p align="center">
     Medical AI Chat for Kids
     <br />
-    <a href="https://github.com/ViviQD/ViviComm"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ViviQD/ViviComm-Lite"><strong>Explore the docs »</strong></a>
 </div>
 
-# ViviComm
+# ViviComm Lite
 
 ### ViviQD - *The adventure for life, knowledge and healing.*
 
@@ -72,7 +72,7 @@ Welcome to the official documentation for **ViviComm Chat**, a Social Media Plat
 
 ## Backend Technologies
 
-The backend of ViviQD Chat is built using a modern and scalable tech stack to ensure reliability and performance. Our current backend technologies include:
+The backend of ViviComm Lite is built using a modern and scalable tech stack to ensure reliability and performance. Our current backend technologies include:
 
 - **Spring Boot** – for building the core application logic and API.
 - **Spring Security** – for handling authentication and authorization.
@@ -112,24 +112,25 @@ The backend of ViviQD Chat is built using a modern and scalable tech stack to en
 Below is our development roadmap outlining key upcoming features and improvements. Check off the items as they are completed:
 
 - [ ] **User Registration and Authentication:** Secure sign-up, login, and account management using Spring Security and JWT.
-- [ ] **Real-time Messaging Enhancements:** Improved real-time communication with better stability and scalability.
-- [ ] **GDPR and HIPAA Compliance:** Ensure that the platform complies with GDPR and HIPAA standards for handling user data.
-- [ ] **Logging and Monitoring:** Implement logging and real-time monitoring for system health and error tracking using tools like Spring Actuator and ELK stack.
 - [ ] **Profile Data Management:** Secure storage and access to user profile data, with configurable visibility for AI and healthcare professionals.
+- [ ] **Real-time Messaging Enhancements:** Improved real-time communication with better stability and scalability.
+- [ ] **Logging and Monitoring:** Implement logging and real-time monitoring for system health and error tracking using tools like Spring Actuator and ELK stack.
 - [ ] **Message Saving to PDF:** Implement functionality to save chat messages as PDF documents for users.
 - [ ] **Enhanced Moderation Tools:** Tools for monitoring, moderation, and reporting inappropriate content.
+- [ ] **GDPR and HIPAA Compliance:** Ensure that the platform complies with GDPR and HIPAA standards for handling user data.
 - [ ] **Admin Dashboard:** A comprehensive dashboard for managing users and content.
+
 
 ---
 
 ## Installation
 
-To set up a local copy of the ViviQD Chat project, follow these steps:
+To set up a local copy of the ViviComm-Lite Chat project, follow these steps:
 
 1. **Clone the Repository:**
 
 ```
-git clone https://github.com/ViviQD/ViviComm.git
+git clone https://github.com/ViviQD/ViviComm-Lite.git
 cd ViviComm
 ```
 
@@ -189,7 +190,7 @@ This project is distributed under the GNU GPL v3 license. This means any modific
 
 If you have any questions or would like to connect with us, feel free to reach out via our official communication channels.
 
-Thank you for being a part of the ViviQD Chat adventure, using ViviComm – together, we're building a journey for life, knowledge, and healing!
+Thank you for being a part of the ViviQD Chat adventure, using ViviComm-Lite – together, we're building a journey for life, knowledge, and healing!
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -199,15 +200,15 @@ Thank you for being a part of the ViviQD Chat adventure, using ViviComm – toge
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ViviQD/ViviComm?style=for-the-badge&color=blue
-[contributors-url]: https://github.com/ViviQD/ViviComm/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ViviQD/ViviComm?style=for-the-badge&color=blue
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/ViviQD/ViviComm?style=for-the-badge&color=blue
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ViviQD/ViviComm?style=for-the-badge&color=blue
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[contributors-url]: https://github.com/ViviQD/ViviComm-Lite/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ViviQD/ViviComm-Lite?style=for-the-badge&color=blue
+[forks-url]: https://img.shields.io/github/forks/ViviQD/ViviComm-Lite
+[stars-shield]: https://img.shields.io/github/stars/ViviQD/ViviComm-Lite?style=for-the-badge&color=blue
+[stars-url]: https://img.shields.io/github/stars/ViviQD/ViviComm-Lite
+[issues-shield]: https://img.shields.io/github/issues/ViviQD/ViviComm-Lite?style=for-the-badge&color=blue
+[issues-url]: https://img.shields.io/github/issues/ViviQD/ViviComm-Lite
 [license-shield]: https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge
-[license-url]: https://github.com/ViviQD/ViviComm/blob/main/LICENSE
+[license-url]: https://github.com/ViviQD/ViviComm-Lite/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/viviqd
 [SpringBoot-shield]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
