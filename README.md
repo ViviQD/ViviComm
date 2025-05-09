@@ -10,8 +10,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-
 <center>
   <table>
     <tr>
@@ -19,7 +17,7 @@
       <td><a href="https://github.com/ViviQD/ViviComm-Lite/network/members"><img src="https://img.shields.io/github/forks/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Forks"></a></td>
       <td><a href="https://github.com/ViviQD/ViviComm-Lite/stargazers"><img src="https://img.shields.io/github/stars/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Stars"></a></td>
       <td><a href="https://github.com/ViviQD/ViviComm-Lite/issues"><img src="https://img.shields.io/github/issues/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Issues"></a></td>
-      <td><a href="https://github.com/ViviQD/ViviComm-Lite/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="License"></a></td>
+      <td><a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPLv3-blue.svg?logo=gnu&logoWidth=40&style=for-the-badge" alt="License: AGPLv3"></a></td>
       <td><a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoWidth=40&style=for-the-badge" alt="LinkedIn"></a></td>
     </tr>
   </table>
@@ -222,6 +220,7 @@ Thank you for being a part of the ViviQD Chat adventure, using ViviComm-Lite –
 [stars-url]: https://img.shields.io/github/stars/ViviQD/ViviComm-Lite
 [issues-shield]: https://img.shields.io/github/issues/ViviQD/ViviComm-Lite?style=for-the-badge&color=blue
 [issues-url]: https://img.shields.io/github/issues/ViviQD/ViviComm-Lite
+
 [license-shield]: https://img.shields.io/badge/license-AGPLv3-blue?style=for-the-badge
 [license-url]: https://github.com/ViviQD/ViviComm-Lite/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
