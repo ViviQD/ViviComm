@@ -1,4 +1,37 @@
-                    GNU AFFERO GENERAL PUBLIC LICENSE
+    ViviComm Lite - Community Edition
+    Modular dual-licensed communication and support platform with medical data compliance, parental control features, and child-focused design, with optional AI assistance and human expertise.
+    Copyright (C) 2025 Róbert Kovács
+    
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+    
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU Affero General Public License for more details.
+    
+    You should have received a copy of the GNU Affero General Public License
+    along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+Certain documentation, dual-use licensing, character integration, branding elements (including logos, slogans), commercial reuse, and specific modules
+are **explicitly excluded from AGPL coverage** and governed by separate policies:
+
+- https://github.com/ViviQD/ViviComm-Lite/blob/main/LICENSE_DUAL_USE_POLICY.md
+- https://github.com/ViviQD/ViviComm-Lite/blob/main/TRADEMARK_USE_AGREEMENT.md
+- https://github.com/ViviQD/ViviComm-Lite/blob/main/CHARACTER_PROTECTION_DECLARATION.md
+
+For complete project-wide licensing policies, see: https://github.com/ViviQD/ViviComm-Lite/blob/main/LICENSING.md
+And for the contributor rules, see: https://github.com/ViviQD/ViviComm-Lite/blob/main/CLA.md
+and: https://github.com/ViviQD/ViviComm-Lite/blob/main/CONTRIBUTING.md
+
+For licensing inquiries, please contact:
+legal@univital.net
+
+                   GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
